@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Thu May 03 19:07:28 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : LOG2_CW
+Top-level Entity Name : LOG2_CW
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 415
+Total pins : 35
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 16
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0
