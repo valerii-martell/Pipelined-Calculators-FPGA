@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed May 09 01:25:25 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : COS_CW
+Top-level Entity Name : COS_CW
+Family : Cyclone 10 LP
+Total logic elements : 112
+    Total combinational functions : 99
+    Dedicated logic registers : 106
+Total registers : 106
+Total pins : 23
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
