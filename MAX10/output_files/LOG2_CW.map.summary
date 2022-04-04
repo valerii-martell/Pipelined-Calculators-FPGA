@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Thu May 03 20:00:25 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : LOG2_CW
+Top-level Entity Name : LOG2_CW
+Family : MAX 10
+Total logic elements : 118
+    Total combinational functions : 81
+    Dedicated logic registers : 114
+Total registers : 114
+Total pins : 19
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 8
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

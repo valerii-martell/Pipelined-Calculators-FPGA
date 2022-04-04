@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed May 09 00:49:48 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : EX_CW
+Top-level Entity Name : EX_CW
+Family : Cyclone 10 LP
+Total logic elements : 215
+    Total combinational functions : 211
+    Dedicated logic registers : 146
+Total registers : 146
+Total pins : 23
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
